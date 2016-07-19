@@ -1,2 +1,5 @@
 RemoteSystemsTempFiles/
 .metadata/
+.git/
+.recommenders/
+.gitignore
